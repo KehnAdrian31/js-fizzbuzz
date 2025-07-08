@@ -19,3 +19,13 @@ Fate sempre il file README.md prima di cominciare a lavorare e scomponete il pro
 Numero minimo di push: 5
 
 Buon lavoro e buon divertimento! 🙂
+
+## Scomposizione in sotto problemi
+
+1. creo ciclo che stampa i numeri da 1 a 100.
+2. controllo se il numero è multiplo di 3 e 5
+3. controllo se il numero è multiplo di 5
+4. controllo se il numero è multiplo di 3
+5. stampo Fizz per i numeri multipi di 3
+6. stampo Buzz per numeri multipli di 5
+7. stampo FizzBuzz per i numeri multipli di 3 e 5
